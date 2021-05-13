@@ -1,3 +1,3 @@
-# Ease of use for google cloud rendering that adds inputs
+# Ease of use for google cloud rendering
 
-This makes it a lot easier instead of having to edit the bash script directly
+Adds input fields for rendering, this makes it a lot easier instead of having to edit the bash script directly
